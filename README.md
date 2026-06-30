@@ -26,7 +26,7 @@ Faculty of Mathematics and Computer Science - Babes-Bolyai University
     <li>:green_book: Semester 2
         <ul>
             <li>
-                <a href="">
+                <a href="https://github.com/ale23yfm/Operating-Systems">
                     :computer: Operating Systems
                 </a>
             </li>
