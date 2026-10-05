@@ -1,7 +1,7 @@
 # University
 Faculty of Mathematics and Computer Science - Babes-Bolyai University
 
-# University
+# Computer Science
 
 <ul>
     <li>:closed_book: Semester 1
